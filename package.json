@@ -1,0 +1,14 @@
+{
+  "name": "reponode",
+  "version": "1.0.1",
+  "description": "primer package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago santo.113@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
